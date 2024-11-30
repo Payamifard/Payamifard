@@ -1,5 +1,3 @@
-GitHub Profile README (Final Version):
-
 # Hi there! 👋  
 
 Welcome to my GitHub profile! Here’s a little about me:  
