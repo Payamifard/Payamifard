@@ -5,7 +5,7 @@ Welcome to my GitHub profile! Here’s a little about me:
 ### 🧑‍💻 About Me  
 - 🌍 I'm based in Tehran, navigating challenges with determination and resilience.  
 - 📚 I'm passionate about **programming** and continually learning to improve my skills.  
-- 💻 Currently, I'm developing a **car rental website** using **Laravel**.  
+- 💻 Currently, I'm developing a **website** using **Laravel**.  
 
 ### 🚀 Skills & Tools  
 - **Programming Languages:** PHP, JavaScript  
